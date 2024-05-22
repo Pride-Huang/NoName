@@ -1,3 +1,8 @@
 # NoName
 The source code of a algorithms
-run xxx.ipynb file in ./ipynb 
+
+
+Run xxx.ipynb file in ./ipynb 
+
+
+pip install requirement.txt
